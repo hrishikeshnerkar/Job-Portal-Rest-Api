@@ -56,13 +56,15 @@ mvn spring-boot:run
 
 Runs at: ```http://localhost:8080
 
-🎨 Frontend Setup
+```
+###🎨 Frontend Setup
 
 ```bash
 npm install
 npm start
 
 Runs at: ```http://localhost:3000
+```
 
 🖼️ UI Overview
 The frontend displays job listings in card format, including:
