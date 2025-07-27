@@ -57,7 +57,7 @@ mvn spring-boot:run
 Runs at: ```http://localhost:8080
 
 ```
-###🎨 Frontend Setup
+### 🎨 Frontend Setup
 
 ```bash
 npm install
