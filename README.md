@@ -73,3 +73,14 @@ The frontend displays job listings in card format, including:
 - 🔹 Required experience (reqExperience)
 - 🔹 Skills (Tech stack → postTechStack)
 Each card is styled with responsive design elements using Material-UI’s Grid, Card, and Typography components.
+
+---
+
+## 👤 Author
+
+**Hrishikesh**  
+Full-stack developer passionate about building secure, scalable, and well-documented web applications.  
+Specialized in Spring Boot, React, and modern authentication flows.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hrishikesh015)
+
+---
