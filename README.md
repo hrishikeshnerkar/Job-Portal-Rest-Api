@@ -73,7 +73,7 @@ Each card is styled with responsive design elements using Material-UI’s Grid, 
 
 ---
 
-### 📬 API Testing with Postman
+# 📬 API Testing with Postman
 
 🔍 Visualizing Backend Integration
 To demonstrate the seamless connection between the Spring Boot backend and the React frontend, I used Postman to test all core API functionalities. Below are screenshots showing:
