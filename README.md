@@ -9,18 +9,16 @@ A Backend job portal system built with **Spring Boot** using REST API and **Reac
 | Layer      | Technology           | Description                         |
 |------------|----------------------|-------------------------------------|
 | Backend    | Spring Boot          | REST API for job listings           |
-| Frontend   | React + Material-UI  | UI interface for job presentation   |
+| Frontend   | React                | Just for showing the UI             |
 
 ---
 
 ## ✨ Features
 
 - View all job listings
-- Access individual job post details
 - Add new job entries
 - Edit and update job information
 - Delete job listings
-- Responsive job card rendering with Material-UI
 
 ---
 
@@ -28,7 +26,6 @@ A Backend job portal system built with **Spring Boot** using REST API and **Reac
 
 - Java 17 + Spring Boot
 - React
-- Material-UI
 - Axios for API communication
 - json-server for mock testing
 
@@ -75,6 +72,17 @@ The frontend displays job listings in card format, including:
 Each card is styled with responsive design elements using Material-UI’s Grid, Card, and Typography components.
 
 ---
+
+### 📬 API Testing with Postman
+
+🔍 Visualizing Backend Integration
+To demonstrate the seamless connection between the Spring Boot backend and the React frontend, I used Postman to test all core API functionalities. Below are screenshots showing:
+- ✅ Retrieving job listings (GET /jobPosts)
+- ➕ Adding a new job post (POST /jobPost)
+- ✏️ Updating job details (PUT /jobPost)
+- ❌ Deleting a job post (DELETE /jobPost/{postId})
+These actions reflect instantly on the frontend UI, validating the dynamic data flow between client and server.
+
 
 ## 👤 Author
 
