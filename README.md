@@ -82,7 +82,22 @@ To demonstrate the seamless connection between the Spring Boot backend and the R
 - ✏️ Updating job details (PUT /jobPost)
 - ❌ Deleting a job post (DELETE /jobPost/{postId})
 These actions reflect instantly on the frontend UI, validating the dynamic data flow between client and server.
+1. Post a new Job
+   <img width="1376" height="870" alt="image" src="https://github.com/user-attachments/assets/dec333d2-cefe-4a0a-ac1c-5faf53dbdf18" />
 
+2. Update the Job
+   <img width="1341" height="885" alt="image" src="https://github.com/user-attachments/assets/ab606ec0-1ca9-48c8-9eab-dd83f344f246" />
+
+3. Get Job Details
+   <img width="1390" height="964" alt="image" src="https://github.com/user-attachments/assets/09ef4762-a00c-444b-a511-e95e1c846505" />
+
+4. Delete the Job
+   <img width="1391" height="920" alt="image" src="https://github.com/user-attachments/assets/2a963d5d-a61e-4bb6-bf94-b32906c80972" />
+
+5. Gettig all Jobs
+   <img width="1337" height="887" alt="image" src="https://github.com/user-attachments/assets/791f1fb2-7b2f-4eaf-9176-78590caf9fc9" />
+
+---
 
 ## 👤 Author
 
